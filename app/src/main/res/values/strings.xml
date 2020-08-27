@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="nombre_usuario">Nombre de usuario</string>
+    <string name="password">Password</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="requerido">Requerido</string>
+    <string name="credenciales_no_validas">Crendenciales no válidas</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>
